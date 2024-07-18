@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/note-keep-clone/static/css/main.d7f69291.css",
-    "main.js": "/note-keep-clone/static/js/main.dd7021df.js",
-    "static/js/453.26899222.chunk.js": "/note-keep-clone/static/js/453.26899222.chunk.js",
-    "index.html": "/note-keep-clone/index.html",
-    "main.d7f69291.css.map": "/note-keep-clone/static/css/main.d7f69291.css.map",
-    "main.dd7021df.js.map": "/note-keep-clone/static/js/main.dd7021df.js.map",
-    "453.26899222.chunk.js.map": "/note-keep-clone/static/js/453.26899222.chunk.js.map"
+    "main.css": "/Note-Keep-clone/static/css/main.d7f69291.css",
+    "main.js": "/Note-Keep-clone/static/js/main.71899c5d.js",
+    "static/js/453.26899222.chunk.js": "/Note-Keep-clone/static/js/453.26899222.chunk.js",
+    "index.html": "/Note-Keep-clone/index.html",
+    "main.d7f69291.css.map": "/Note-Keep-clone/static/css/main.d7f69291.css.map",
+    "main.71899c5d.js.map": "/Note-Keep-clone/static/js/main.71899c5d.js.map",
+    "453.26899222.chunk.js.map": "/Note-Keep-clone/static/js/453.26899222.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d7f69291.css",
-    "static/js/main.dd7021df.js"
+    "static/js/main.71899c5d.js"
   ]
 }
