@@ -1,4 +1,4 @@
-# Basic Google Keep Clone
+# Note Keep Clone
 
 ## Functionalities
 
